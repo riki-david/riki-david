@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Richard Davian</h1>
+<h1 align="center">Hi 👋, I'm Riki David</h1>
 <h3 align="center">Fullstack Developer — Web, Mobile & Desktop 🚀</h3>
 
 <p align="center">
@@ -47,18 +47,18 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=richard-davian&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=richard-davian&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=riki-david&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=riki-david&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=richard-davian&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=riki-david&theme=radical&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=richard-davian&color=6C63FF&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=riki-david&color=6C63FF&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
